@@ -1,0 +1,14 @@
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\bin\Debug\net8.0\Irodahazz.exe
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\bin\Debug\net8.0\Irodahazz.deps.json
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\bin\Debug\net8.0\Irodahazz.runtimeconfig.json
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\bin\Debug\net8.0\Irodahazz.dll
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\bin\Debug\net8.0\Irodahazz.pdb
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\obj\Debug\net8.0\Irodahazz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\obj\Debug\net8.0\Irodahazz.AssemblyInfoInputs.cache
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\obj\Debug\net8.0\Irodahazz.AssemblyInfo.cs
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\obj\Debug\net8.0\Irodahazz.csproj.CoreCompileInputs.cache
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\obj\Debug\net8.0\Irodahazz.dll
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\obj\Debug\net8.0\refint\Irodahazz.dll
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\obj\Debug\net8.0\Irodahazz.pdb
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\obj\Debug\net8.0\Irodahazz.genruntimeconfig.cache
+C:\Users\tomio\source\repos\Irodahazz\Irodahazz\obj\Debug\net8.0\ref\Irodahazz.dll
